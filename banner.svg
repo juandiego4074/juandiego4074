@@ -1,0 +1,15 @@
+<svg width="1000" height="160" viewBox="0 0 1000 160" xmlns="http://w3.org">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#1F6FEB"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="160" rx="8" fill="url(#bg)" stroke="#30363D" stroke-width="2"/>
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-family="system-ui, -apple-system, sans-serif" font-size="34" font-weight="bold">
+    Juan Diego | juandiego4074
+  </text>
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" fill="#C9D1D9" font-family="monospace" font-size="16">
+    Software Engineering (INSO) @ UPRM • Offensive Security &amp; R&amp;D
+  </text>
+</svg>
