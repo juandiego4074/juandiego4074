@@ -27,4 +27,4 @@ Software Engineering (**INSO**) undergraduate at the **University of Puerto Rico
 
 ### `$ cat ./profiles.txt`
 * **LinkedIn:** [linkedin.com/in/juan-d-martinez-cardenas-91a672339](https://www.linkedin.com/in/juan-d-martinez-cardenas-91a672339/)
-* **Codewars:** [codewars.com/users/juandiego4074](https://www.codewars.com/users/juandiego4074) *(Algorithmic Training & Problem Solving in Python)*
+* **Codewars:** [codewars.com/users/juandiego4074](https://www.codewars.com/users/juandiego4074) 
