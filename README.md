@@ -1,3 +1,4 @@
+<img width="1408" height="768" alt="image_1ab38e23" src="https://github.com/user-attachments/assets/700ffd85-c346-41f2-beb2-92ef9d3546d5" />
 <div align="center">
   <img src="./banner.svg" alt="Juan Diego - Offensive Security & R&D" width="100%"/>
 </div>
