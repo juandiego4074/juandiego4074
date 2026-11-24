@@ -23,3 +23,8 @@ Software Engineering (**INSO**) undergraduate at the **University of Puerto Rico
 * **Systems & Low-Level:** Exploring operating system internals, memory management, and network protocols across Unix and Windows environments.
 * **Research & Development:** Conducting technical experiments, documenting methodologies, and building proof-of-concept (PoC) implementations.
 
+---
+
+### `$ cat ./profiles.txt`
+* **LinkedIn:** [linkedin.com/in/juan-d-martinez-cardenas-91a672339](https://www.linkedin.com/in/juan-d-martinez-cardenas-91a672339/)
+* **Codewars:** [codewars.com/users/juandiego4074](https://www.codewars.com/users/juandiego4074) *(Algorithmic Training & Problem Solving in Python)*
