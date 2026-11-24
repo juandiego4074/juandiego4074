@@ -1,8 +1,5 @@
-<div align="center">
-  <img src="./banner.svg" alt="Juan Diego - Offensive Security & R&D" width="100%"/>
-</div>
+<img width="2064" height="512" alt="image_b68cf7ad" src="https://github.com/user-attachments/assets/aeecc731-4be8-46ec-b0b4-94973759b49e" />
 
-<br/>
 
 ### `$ whoami`
 Estudiante de Ingeniería de Software (**INSO**) en la **Universidad de Puerto Rico en Mayagüez (UPRM)** enfocado en **ciberseguridad ofensiva, pentesting e investigación y desarrollo (R&D)**. Me especializo en la creación de herramientas de automatización, scripting multiplataforma y análisis de sistemas a bajo nivel.
