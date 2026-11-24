@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://vercel.app" alt="Banner Juan Diego" width="100%"/>
+  <img src="./banner.svg" alt="Juan Diego - Offensive Security & R&D" width="100%"/>
 </div>
 
 <br/>
@@ -11,26 +11,15 @@ Estudiante de Ingeniería de Software (**INSO**) en la **Universidad de Puerto R
 
 ### `$ ./skills --list`
 
-**Lenguajes & Scripting**
-<p>
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="Bash" />
-  <img src="https://shields.io" alt="PowerShell" />
-</p>
-
-**Entornos & Operaciones**
-<p>
-  <img src="https://shields.io" alt="Kali Linux" />
-  <img src="https://shields.io" alt="Linux" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="Docker" />
-</p>
+| Categoría | Tecnologías & Herramientas |
+| :--- | :--- |
+| **Lenguajes & Scripting** | `Python` • `C++` • `Bash` • `PowerShell` |
+| **Sistemas & Contenedores** | `Kali Linux` • `Linux (Debian/Arch)` • `Docker` • `Git` |
+| **Áreas de Enfoque** | `Pentesting` • `Offensive Tooling` • `Automation` • `Security R&D` |
 
 ---
 
-### `$ ./metrics --summary`
-<div align="center">
-  <img height="160" src="https://vercel.app" alt="GitHub Stats" />
-  <img height="160" src="https://vercel.app" alt="Top Languages" />
-</div>
+### `$ ./focus --areas`
+* **Offensive Tooling:** Desarrollo de scripts y utilidades en Python, C++ y Bash/PowerShell para automatización de reconocimiento y pruebas de seguridad.
+* **Systems & Low-Level:** Análisis de arquitectura de sistemas, manejo de memoria y entornos Unix/Windows.
+* **Research & Development:** Experimentación técnica, documentación de hallazgos y desarrollo de pruebas de concepto (PoCs).
