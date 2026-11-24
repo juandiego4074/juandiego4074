@@ -1,43 +1,25 @@
 <img width="2064" height="512" alt="image_b68cf7ad" src="https://github.com/user-attachments/assets/aeecc731-4be8-46ec-b0b4-94973759b49e" />
 
 
+<br/>
+
 ### `$ whoami`
-Estudiante de Ingeniería de Software (**INSO**) en la **Universidad de Puerto Rico en Mayagüez (UPRM)** enfocado en **ciberseguridad ofensiva, pentesting e investigación y desarrollo (R&D)**. Me especializo en la creación de herramientas de automatización, scripting multiplataforma y análisis de sistemas a bajo nivel.
+Software Engineering (**INSO**) undergraduate at the **University of Puerto Rico at Mayagüez (UPRM)** focused on **offensive security, penetration testing, and security research & development (R&D)**. I specialize in building offensive automation tools, cross-platform scripting, and low-level system analysis.
 
 ---
 
 ### `$ ./skills --list`
 
-| Categoría | Tecnologías & Herramientas |
+| Domain | Stack & Environment |
 | :--- | :--- |
-| **Lenguajes & Scripting** | `Python` • `C++` • `Bash` • `PowerShell` |
-| **Sistemas & Contenedores** | `Kali Linux` • `Linux (Debian/Arch)` • `Docker` • `Git` |
-| **Áreas de Enfoque** | `Pentesting` • `Offensive Tooling` • `Automation` • `Security R&D` |
+| **Languages & Scripting** | `Python` • `C++` • `Bash` • `PowerShell` |
+| **Platforms & Tooling** | `Kali Linux` • `Linux` • `Docker` • `Git` |
+| **Core Focus** | `Penetration Testing` • `Offensive Tooling` • `Automation` • `Security R&D` |
 
 ---
 
 ### `$ ./focus --areas`
-* **Offensive Tooling:** Desarrollo de scripts y utilidades en Python, C++ y Bash/PowerShell para automatización de reconocimiento y pruebas de seguridad.
-* **Systems & Low-Level:** Análisis de arquitectura de sistemas, manejo de memoria y entornos Unix/Windows.
-* **Research & Development:** Experimentación técnica, documentación de hallazgos y desarrollo de pruebas de concepto (PoCs).
+* **Offensive Tooling:** Developing custom utilities in Python, C++, Bash, and PowerShell to automate reconnaissance, enumeration, and security assessments.
+* **Systems & Low-Level:** Exploring operating system internals, memory management, and network protocols across Unix and Windows environments.
+* **Research & Development:** Conducting technical experiments, documenting methodologies, and building proof-of-concept (PoC) implementations.
 
-
-### `$ whoami`
-Estudiante de Ingeniería de Software (**INSO**) en la **Universidad de Puerto Rico en Mayagüez (UPRM)** enfocado en **ciberseguridad ofensiva, pentesting e investigación y desarrollo (R&D)**. Me especializo en la creación de herramientas de automatización, scripting multiplataforma y análisis de sistemas a bajo nivel.
-
----
-
-### `$ ./skills --list`
-
-| Categoría | Tecnologías & Herramientas |
-| :--- | :--- |
-| **Lenguajes & Scripting** | `Python` • `C++` • `Bash` • `PowerShell` |
-| **Sistemas & Contenedores** | `Kali Linux` • `Linux (Debian/Arch)` • `Docker` • `Git` |
-| **Áreas de Enfoque** | `Pentesting` • `Offensive Tooling` • `Automation` • `Security R&D` |
-
----
-
-### `$ ./focus --areas`
-* **Offensive Tooling:** Desarrollo de scripts y utilidades en Python, C++ y Bash/PowerShell para automatización de reconocimiento y pruebas de seguridad.
-* **Systems & Low-Level:** Análisis de arquitectura de sistemas, manejo de memoria y entornos Unix/Windows.
-* **Research & Development:** Experimentación técnica, documentación de hallazgos y desarrollo de pruebas de concepto (PoCs).
