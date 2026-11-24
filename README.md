@@ -1,7 +1,8 @@
-<img width="2064" height="512" alt="image_b68cf7ad" src="https://github.com/user-attachments/assets/aeecc731-4be8-46ec-b0b4-94973759b49e" />
 
 
-<br/>
+
+<img width="1584" height="672" alt="image_207e97b" src="https://github.com/user-attachments/assets/852d8631-10d5-4594-ab8a-13f6f8b2f38e" />
+
 
 ### `$ whoami`
 Software Engineering (**INSO**) undergraduate at the **University of Puerto Rico at Mayagüez (UPRM)** focused on **offensive security, penetration testing, and security research & development (R&D)**. I specialize in building offensive automation tools, cross-platform scripting, and low-level system analysis.
